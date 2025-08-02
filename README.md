@@ -4,11 +4,9 @@ This project demonstrates the setup and use of cloud storage using **AWS S3** an
 
 ---
 
-## 📚 Course Info
 
-- **Course**: Cloud Computing Fundamentals  
 - **Assignment**:  Setting Up and Using Cloud Storage  
-- **Student**: Moatasem Sorour  
+- By: Moatasem Sorour  
 - **Date**: August 2025  
 
 
